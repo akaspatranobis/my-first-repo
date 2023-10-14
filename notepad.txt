@@ -1,0 +1,6 @@
+sudo apt install snapd
+ sudo snap install notepad-plus-plus
+ 
+ https://code.visualstudio.com/docs/setup/linux
+
+sudo apt install ./code_1.83.0-1696350811_amd64.deb
